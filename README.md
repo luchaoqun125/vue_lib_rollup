@@ -4,9 +4,9 @@
 
 # 💡 Features
 
-- [x] scaffolding of vue+rollup+sass+eslint+babel
-- [x] Live animation components
-- [ ] Custom video component of x5 kernel browser
+- [x] scaffolding of vue+rollup+sass+eslint+babel[Scaffolding detailed tutorial](./docs/scaffolding.md)
+- [x] Live animation components[Live Animation Tutorial](./docs/live-animation.md)
+- [ ] Custom video component of x5 kernel browser[xh5 video component tutorial](./docs/xh5-video.md)
 
 # 🙏🏻 Support
 
