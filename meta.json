@@ -3,13 +3,13 @@
     "name": {
       "type": "string",
       "required": true,
-      "label": "Project name"
+      "label": "library name"
     },
     "description": {
       "type": "string",
       "required": true,
-      "label": "Project description",
-      "default": "A Vue.js sdk project"
+      "label": "library description",
+      "default": "A Vue.js library with rollup"
     },
     "author": {
       "type": "string",
