@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="live-animation">
     <p>直播动画组件：</p>
     <canvas-animation />
     <css-animation />
@@ -17,3 +17,8 @@ export default {
   }
 };
 </script>
+<style lang="scss" scoped>
+  .live-animation{
+    display:flex;
+  }
+</style>
