@@ -1,14 +1,14 @@
 {
   "name": "{{ name }}",
-  "version": "1.0.0",
+  "version": "1.2.8",
   "description": "{{ description }}",
   "author": "{{ author }}",
   "license": "{{ license }}",
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
-    "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js",
     "lint": "vue-cli-service lint",
-    "dev": "cross-env NODE_ENV=production rollup --config build/rollup.config.js -w"
+    "dev": "cross-env NODE_ENV=production rollup --config build/rollup.config.js -w",
+    "build": "cross-env NODE_ENV=production rollup --config build/rollup.config.js"
   },
   "main": "lib/index.js",
   "module": "lib/index.js",

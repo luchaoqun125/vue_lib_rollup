@@ -4,9 +4,9 @@
 
 # 💡 Features
 
-- [x] scaffolding of vue+rollup+sass+eslint+babel[Scaffolding detailed tutorial](./docs/scaffolding.md)
-- [x] Live animation components[Live Animation Tutorial](./docs/live-animation.md)
-- [ ] Custom video component of x5 kernel browser[xh5 video component tutorial](./docs/xh5-video.md)
+- [x] scaffolding of vue+rollup+sass+eslint+babel[Scaffolding detailed tutorial](./docs/template/scaffolding.md)
+- [x] Live animation components[Live Animation Tutorial](./docs/template/live-animation.md)
+- [ ] Custom video component of x5 kernel browser[xh5 video component tutorial](./docs/template/xh5-video.md)
 
 # 🙏🏻 Support
 
@@ -61,8 +61,6 @@ $ npm run build
 $ npm publish
 ```
 
-# 🖊 License
-
-[MIT](LICENSE)
-
-Developed with ❤️ and ☕️
+# 🖊 References
+1、rollup compilation plugin[Rollup Plugin Vue](https://rollup-plugin-vue.vuejs.org/)
+2、rollup universal plugin[Rollup Plugin](https://github.com/rollup/plugins)

@@ -8,10 +8,10 @@
 import Vue from 'vue';
 import Dev from './serve.vue';
 
-import { MyPlugin } from '@/index';
+import { MyPlugin } from '@';
 
 Vue.use(MyPlugin, {
-  name: 'vue-plugin'
+  name: 'my-plugin'
 });
 
 new Vue({

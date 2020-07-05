@@ -18,7 +18,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-  .live-animation{
-    display:flex;
-  }
+.live-animation {
+  display: flex;
+}
 </style>
