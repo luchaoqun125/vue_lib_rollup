@@ -20,6 +20,7 @@ If you like this project, You can support me with starring ⭐ this repository.
 
 ```bash
 $ npm install -g vue-cli
+$ yarn global add @vue/cli-init
 ```
 
 - Initial component/library
