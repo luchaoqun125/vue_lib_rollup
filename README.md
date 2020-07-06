@@ -14,6 +14,12 @@
 If you like this project, You can support me with starring ⭐ this repository.
 ```
 
+# Help author
+```
+If you have any questions or want to join us, you can find the author in the group to discuss through the group QR code below
+```
+![加入群聊](./template/docs/image/wechat_ma.jpg)
+
 # 💻 Usage
 
 - Install [vue-cli](https://github.com/vuejs/vue-cli)
