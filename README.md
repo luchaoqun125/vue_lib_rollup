@@ -18,7 +18,7 @@ If you like this project, You can support me with starring ⭐ this repository.
 ```
 If you have any questions or want to join us, you can find the author in the group to discuss through the group QR code below
 ```
-![加入群聊](./template/docs/image/wechat_ma.jpg)
+![加入群聊](./template/docs/image/wechat_ma.png)
 
 # 💻 Usage
 
