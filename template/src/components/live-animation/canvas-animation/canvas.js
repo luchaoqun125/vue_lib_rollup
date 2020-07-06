@@ -23,16 +23,12 @@ export default class ThumbsUpAni {
   }
   loadImages() {
     const images = [
-      '7348001d589622ae8d5174a42f956f6d16a89ed9_1590652016236_99.png',
-      '3ace758d92ebfaa8e27f5cae39ab9e85af8e4c25_1590652016253_77.png',
-      '6750badae5530c1170337a2e64496544254a042d_1590652016275_11.png',
-      '8a25a22e633997d5944026563a01e761eca4571f_1590652016294_70.png',
-      '05529d957edbfba6c4ace7c5f2e07efe0456f223_1590652016312_89.png',
-      '301f19bd7efd341165444af775ca148b1cf881e3_1590652016335_44.png',
-      'fecddbb46a67e392d3a91f1a0d3195478c5312fd_1590652016356_87.png',
-      '63af764b2ac9df62f3c2adf2128ce1047e1ef556_1590652016375_64.png',
-      'c86a9126eaf9c8c3fbd63fd44edff513249d9b54_1590652016394_30.png',
-      '52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png'
+      'jfs/t1/93992/8/9049/4680/5e0aea04Ec9dd2be8/608efd890fd61486.png',
+      'jfs/t1/108305/14/2849/4908/5e0aea04Efb54912c/bfa59f27e654e29c.png',
+      'jfs/t1/98805/29/8975/5106/5e0aea05Ed970e2b4/98803f8ad07147b9.png',
+      'jfs/t1/94291/26/9105/4344/5e0aea05Ed64b9187/5165fdf5621d5bbf.png',
+      'jfs/t1/102753/34/8504/5522/5e0aea05E0b9ef0b4/74a73178e31bd021.png',
+      'jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png'
     ];
     const promiseAll = [];
     images.forEach(src => {
@@ -41,7 +37,7 @@ export default class ThumbsUpAni {
         img.onerror = img.onload = resolve.bind(null, img);
         img.width = 40;
         img.height = 40;
-        img.src = 'http://akmer.aikucun.com/' + src;
+        img.src = 'https://img12.360buyimg.com/img/' + src
       });
       promiseAll.push(p);
     });

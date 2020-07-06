@@ -56,33 +56,33 @@ export default {
   transform-origin: bottom;
 }
 .b1 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /*  可以使用雪碧图
   background-position: -42px -107px;
   background-size: 188.5px 147px; */
 }
 .b2 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /* background-position: -84px -107px;
   background-size: 188.5px 147px; */
 }
 .b3 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /* background-position: 0 -107px;
   background-size: 188.5px 147px; */
 }
 .b4 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /* background-position: -45px -62px;
   background-size: 188.5px 147px; */
 }
 .b5 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /* background-position: -107px -42px;
   background-size: 188.5px 147px; */
 }
 .b6 {
-  background-image: url(//akmer.aikucun.com/52a908072b9d2ecd882b70fa4d16fb38c7ea7808_1590652016411_37.png);
+  background-image: url(//img12.360buyimg.com/img/jfs/t1/102954/26/9241/5069/5e0aea05E7dde8bda/720fcec8bc5be9d4.png);
   /* background-position: -107px 0;
   background-size: 188.5px 147px; */
 }
